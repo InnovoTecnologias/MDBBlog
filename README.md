@@ -1,2 +1,7 @@
-# MDBBlog
-MDB Blog Template for ASP.NET MVC
+# MDB Blog Template in ASP.NET MVC
+
+Integrating MDBootstrap in ASP.NET MVC
+
+Here you will find a working project to take as starting point.
+
+Thanks to the MDBootstrap Team.
